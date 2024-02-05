@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://westseattlelink.participate.online/</loc>
+  <lastmod>2024-02-05T22:58:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/sodo-station</loc>
+  <lastmod>2024-02-02T23:44:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/delridge-station</loc>
+  <lastmod>2024-02-02T23:44:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/avalon-station</loc>
+  <lastmod>2024-02-02T23:44:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/alaska-junction</loc>
+  <lastmod>2024-02-02T23:44:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/resource-library.html</loc>
+  <lastmod>2024-02-02T23:52:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/wsle-further-studies</loc>
+  <lastmod>2024-02-02T23:44:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://westseattlelink.participate.online/resource-library</loc>
+  <lastmod>2024-02-02T23:52:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
